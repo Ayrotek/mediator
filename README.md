@@ -1,3 +1,6 @@
+aca-py start    --inbound-transport http 0.0.0.0 8000 --genesis-url http://test.bcovrin.vonx.io/genesis  --inbound-transport ws 0.0.0.0 8001 --outbound-transport ws --outbound-transport http --endpoint http://localhost:8000
+
+
 # Hyperledger Aries Cloud Agent - Python  <!-- omit in toc -->
 
 [![pypi releases](https://img.shields.io/pypi/v/aries_cloudagent)](https://pypi.org/project/aries-cloudagent/)
